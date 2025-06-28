@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1748645754 source:c:\codeblocks projects\project 3 text adventure\text adventure\code.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+
+1748883217 source:c:\codeblocks projects\project 3 'forgotten trails'\forgotten trails\forgottentrails.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	<vector>
+	<functional>
+	<algorithm>
+	<random>
+	<chrono>
+
